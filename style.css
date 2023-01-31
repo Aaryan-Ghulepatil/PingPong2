@@ -1,0 +1,30 @@
+body
+{
+    font-family: 'Major Mono Display', monospace;
+}
+
+.heading{
+    width:100%;
+    margin-top: 0px;
+    text-align: left;
+    font-size:22px;
+    color:blue;
+    font-weight: 500;
+}
+.heading button{
+    float:right;
+    font-family: 'Major Mono Display', monospace;
+}
+
+h2{
+    padding-top: 9px;
+}
+
+.footer{
+    margin-bottom:0px;
+    width:100%;
+    position:fixed;
+    background-color:black;
+    color:white;
+    line-height:3;
+}
